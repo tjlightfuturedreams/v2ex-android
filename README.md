@@ -1,11 +1,5 @@
 ## V2EX-android
 
-V2EX社区客户端，非官方。
-
-[![Google Play](http://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.yaoyumeng.v2ex)
-
-[**其他下载链接**](https://github.com/greatyao/v2ex-android/releases/download/1.2.0/v2ex-android-v1.2.0.apk)
-
 
 ### 支持功能
 
@@ -33,19 +27,11 @@ V2EX社区客户端，非官方。
 ### 屏幕截图
 
 <img src="https://raw.github.com/greatyao/v2ex-android/master/snapshots/latest.png" width="200" height="350"/>
-<img src="https://raw.github.com/greatyao/v2ex-android/master/snapshots/hot.png" width="200" height="350"/>
-<img src="https://raw.github.com/greatyao/v2ex-android/master/snapshots/nodes.png" width="200" height="350"/>
-<img src="https://raw.github.com/greatyao/v2ex-android/master/snapshots/favor.png" width="200" height="350"/>
-<img src="https://raw.github.com/greatyao/v2ex-android/master/snapshots/topic_details.png" width="200" height="350"/>
-<img src="https://raw.github.com/greatyao/v2ex-android/master/snapshots/user_details.png" width="200" height="350"/>
-<img src="https://raw.github.com/greatyao/v2ex-android/master/snapshots/topic_add.png" width="200" height="350"/>
-<img src="https://raw.github.com/greatyao/v2ex-android/master/snapshots/topic_reply.png" width="200" height="350"/>
-<img src="https://raw.github.com/greatyao/v2ex-android/master/snapshots/drawer.png" width="200" height="350"/>
 
 
 ### LICENSE
 
-Copyright (C) 2015 YAO Wei <njustyw@gmail.com>
+
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -57,5 +43,3 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <http://www.gnu.org/licenses/>.
