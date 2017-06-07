@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_drawer.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\fragment_drawer.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_view.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_composer_header.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_item_simple.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_bak_platform_item_simple.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_user.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_notification.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\item_notification.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_topic.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\item_topic.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\overlay.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\overlay.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\divide_15_top_bottom.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\divide_15_top_bottom.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_overlay.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_layout_head.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\spinner_layout_head.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_topics.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\fragment_topics.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_layout_item.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\spinner_layout_item.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sb__snack.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7f9c4ee06a765f8590e345f36183b528bcb32000\\output\\res\\layout\\sb__snack.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_dialog_aboutme.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\settings_dialog_aboutme.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_node.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\activity_node.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_topic_more.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\item_topic_more.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_enter_layout.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\common_enter_layout.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_adview.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\tb_munion_adview.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_bak_at_list.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tb_munion_aditem.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\tb_munion_aditem.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_foot.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\listview_foot.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_all_nodes.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\fragment_all_nodes.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fav_nodes.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\fragment_fav_nodes.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\divide_1_12.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\divide_1_12.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_common_arrow.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\list_item_common_arrow.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list_item.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_bak_at_list_item.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_cotent_share.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\dialog_cotent_share.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_selector_dialog.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_bak_platform_selector_dialog.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_comment_dialog.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\fragment_comment_dialog.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_topic.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\activity_topic.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_reply.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\item_reply.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_common.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\dialog_common.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_node.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\item_node.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_topic_add.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\activity_topic_add.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_notification.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_topic_comment.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\activity_topic_comment.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_topic.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\fragment_topic.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sb__snack_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7f9c4ee06a765f8590e345f36183b528bcb32000\\output\\res\\layout\\sb__snack_container.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_item.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_drawer_item.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\layout\\view_drawer_item.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    }
+]

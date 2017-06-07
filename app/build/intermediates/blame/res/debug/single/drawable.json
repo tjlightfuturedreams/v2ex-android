@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_copy_link_selector.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\share_icon_copy_link_selector.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_selector.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_wifi_disable.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_on.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_dialog_bg.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white.9.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_normal.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_on.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\login_button.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_green.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_x_button.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_on.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_search_icon.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_google.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_icon.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\tb_munion_icon.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_sinaweibo_selector.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\share_icon_sinaweibo_selector.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_off.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7e863bf4fa3c38130ee9b8bcca93d2a3d46b4c80\\output\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_normal.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_selector.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_bind_bg.9.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_focused.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_twitter.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_facebook.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_title_bg.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_off.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\v2ex_tab_spinner.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\v2ex_tab_spinner.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\account_bg.jpg",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\account_bg.jpg"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_off.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_comment.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\checkbox_comment.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_off.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_action_back.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_selected.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_more_selector.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\share_icon_more_selector.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_at_button.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_orange.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_renren_off.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_on.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_focused.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_wechatfriends_selector.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\share_icon_wechatfriends_selector.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_follow_on.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_douban_off.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_refersh.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_normal.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sb__tablet_bkgnd.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7f9c4ee06a765f8590e345f36183b528bcb32000\\output\\res\\drawable\\sb__tablet_bkgnd.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_location_ic.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_item_selector.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\tb_munion_item_selector.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_tx_on.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_qq_selector.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\share_icon_qq_selector.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina_off.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_shadow.9.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_wechat_selector.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\share_icon_wechat_selector.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+    }
+]

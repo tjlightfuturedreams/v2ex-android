@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\react\\v2ex-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\values-port\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            }
+        ]
+    }
+]

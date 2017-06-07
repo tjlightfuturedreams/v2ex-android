@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

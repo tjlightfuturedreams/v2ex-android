@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_topic_comment.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\menu\\menu_topic_comment.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\node.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\menu\\node.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_topic_add.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\menu\\menu_topic_add.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\topic.xml",
+        "source": "C:\\react\\v2ex-android\\app\\src\\main\\res\\menu\\topic.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="snackbar-1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/7f9c4ee06a765f8590e345f36183b528bcb32000/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7f9c4ee06a765f8590e345f36183b528bcb32000/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mrengineer13/snackbar/1.1.0/5422eb52042699a8d6ca103d79d607751bfde810/snackbar-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

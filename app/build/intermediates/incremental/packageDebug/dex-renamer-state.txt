@@ -1,0 +1,7 @@
+#Tue Jun 06 14:26:23 CST 2017
+base.0=C\:\\react\\v2ex-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cde2f4d83e3a271a520f600f0eaa05eb91faaba8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\react\\v2ex-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_927e0f16aa90a47e1706ae2df54a12225b9aef28\\classes.dex
+base.1=C\:\\react\\v2ex-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_927e0f16aa90a47e1706ae2df54a12225b9aef28
+file.0=C\:\\react\\v2ex-android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cde2f4d83e3a271a520f600f0eaa05eb91faaba8\\classes.dex

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.3_bea876536ad48753b19ef2455037c5d38080f79e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQZone_2_4a43b9744107054c56a5849c4ee30d128c92c9b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_99bd6968c2baaa65633f45e65bff4ed060796e7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQZone_1_54e98e5a12e947fbbcbcbbce6e86034f1876c448\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\cf0b805166b0827822ae26ab8d7d3b1c0644a394\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_1eff7402af6a2e1152ec6c2e95d3e04ebaaf2f6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.3\a85588bec3e2c4584d593d3f15df1677321bca72\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.3_7663f8faae3d90805b2c7e72235949f4ecf3a339\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.6\a845a88238be0b5be9d238652c1bc0605ef91f52\android-async-http-1.4.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.6_3abe1b75369d0e7e0c21265f96c41dd7fac30c93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d57cae1dcd1eeeec2cd8197fcdd7a0316216481e">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQZone_3_8875e1245c4f78694f156c74733253f866368737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\7f9c4ee06a765f8590e345f36183b528bcb32000\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aef8893503b7f526cbc2aa53fd0ddd809e0105fe">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54fb6f85a0c0796fa067838e04ccca16d3117561\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\jsoup-1.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.8.1_6dd58b7007d0dc35398fa9807394feec1285d15b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_925875d9448dd345587cabdb9a56f4834d2efae9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\252744fdc61406aee20a06cb6fbbaebc2e5cbd7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e929b5b0beeead8b42f3da1bcf194e86e002c14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="857c78387c5b911f5dc9b20b307f0edfd16befed">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_sdk_cbb7267675ffee0fe2c2a10c58c1e2b2b1edf8e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\1c91458e289c7ba6d260f021b731c3c190d499a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e40d791a7f9d6f49afa07eeb22312e170037c39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\7e863bf4fa3c38130ee9b8bcca93d2a3d46b4c80\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c4a233f2821754958ad83e094deb6783b74c98d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a01801b9f9f7236ef08979eb31fd678a07c3742">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_tencentWB_3_3c44fce5747070915c11a21ce7ec2e2360475708\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\SocialSDK_Sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fd07c18d274be387922d55964e04cb418133c80f">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_Sina_85c88125c20b78e26e2fe9a4197873be3f6654e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec0faf74d92d4882d9be51b1b9ebb5ebc83fbea7">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_2_d098d430a73645b0410ab2da79db0f39d8ba7094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\7091304cafa90abbe65c0278a6cb5a2cc9c2b68b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1fd925a1ae9c85fa596aa6aae29a719a6c1dc31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_tencentWB_2_3781a2e6bb9c0d8fcbfe6d5eb3ae7b49513b44f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\19e514f8d5484ad7aecd0746c5a7fa605941553c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fb034fe53803d5834a156b7552a1de45bfa3ac9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_tencentWB_1_318531360c9dec450b79a924ae61b4103515f401\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\cf0b805166b0827822ae26ab8d7d3b1c0644a394\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7b3876cd652025470e8d2666bfe5177b9454cf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_1_e25d461147e3503b2b690d205237dd136bdcdea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cde2f4d83e3a271a520f600f0eaa05eb91faaba8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3b01f4f54797e51c46adefd07ddd911bdd72689">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_927e0f16aa90a47e1706ae2df54a12225b9aef28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\252744fdc61406aee20a06cb6fbbaebc2e5cbd7f\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_2ee6aae57823c081d3b27311343959fd70aa747e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-update-v2.6.0.1_88d770d1d13dfae27a44f58e2f267516d82b1965\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\bbd20bca7c37d0789647a1956e7bc739b7a4e249\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c527fd190f42e1f3b5471e847ffef0370b5def9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.1.0\8d988e1e13f64c0e8e9d935e347f510f712b376b\analytics-6.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d988e1e13f64c0e8e9d935e347f510f712b376b">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\analytics-6.1.0_45600e21c8bc6e83213e765062f55b0a9a29a7e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\3c948ebca132dc35855521bc7ff45cdd650fb9e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96eccfdeda31990c60769c71cb981f17f95b066f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\react\v2ex-android\app\libs\android-viewbadger.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1303b50d535716ca7601c5014357b8435658313">
+        <dex dex="C:\react\v2ex-android\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-viewbadger_abed9ec1aa1c8c41f7762a990fcd3c8508a6a4e0\classes.dex" />
+    </item>
+
+</items>

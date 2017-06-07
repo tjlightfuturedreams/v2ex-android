@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\color\\sb__button_text_color_red.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7f9c4ee06a765f8590e345f36183b528bcb32000\\output\\res\\color\\sb__button_text_color_red.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\color\\sb__button_text_color_yellow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7f9c4ee06a765f8590e345f36183b528bcb32000\\output\\res\\color\\sb__button_text_color_yellow.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\color\\sb__button_text_color_green.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7f9c4ee06a765f8590e345f36183b528bcb32000\\output\\res\\color\\sb__button_text_color_green.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\color\\sb__default_button_text_color.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\7f9c4ee06a765f8590e345f36183b528bcb32000\\output\\res\\color\\sb__default_button_text_color.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\react\\v2ex-android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\bbd20bca7c37d0789647a1956e7bc739b7a4e249\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    }
+]
